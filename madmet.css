@@ -1,0 +1,32 @@
+
+.body {
+	background-color: #b2b2ff;
+}
+
+.middlecol {
+	background-color: #00004c;
+	color: #b2b2ff;
+	font-family: cursive;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+.firstheader {
+	text-align: center;
+	text-decoration: underline;
+	padding-top: 5%; 
+}
+
+.image {
+	text-align: center;
+}
+
+.paragraph {
+	padding-left: 5%;
+	padding-right: 5%;
+}
+
+#button {
+	color: #b2b2ff;
+	position: fixed;
+}
