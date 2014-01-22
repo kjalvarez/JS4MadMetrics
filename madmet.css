@@ -26,7 +26,12 @@
 	padding-right: 5%;
 }
 
-#button {
+#buttonone {
+	color: #b2b2ff;
+	position: fixed;
+}
+
+#buttontwo {
 	color: #b2b2ff;
 	position: fixed;
 }
