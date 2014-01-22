@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 
 
  $(document).on('ready', function(){
@@ -19,24 +18,3 @@
 
  });
 
-=======
-// $(function () {
-// 	alert("it works!");
-// });
-
-// $(document).scroll(function(e){
- 
-//     alert("You're scrolling!")
- 
-// });
-
-$(function () {
-  var scrollAmount = $(window).scrollTop();
-  var documentHeight = $(document).height();
-  var scrollPercent = (scrollAmount/documentHeight) * 100;
-  $("#button").click(function(){
-    alert(scrollPercent)
-  });
-
-});
->>>>>>> 5b9223112ed477aacdd7a84b906d48201dc79c8b
